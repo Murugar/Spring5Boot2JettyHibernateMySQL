@@ -1,0 +1,5 @@
+/home/iqmsoft/cloud/spring/reviews/Spring5Boot2JettyHibernateMySQL/src/main/java/com/iqmsoft/springboot/hibernate/dao/ClientDAO.java
+/home/iqmsoft/cloud/spring/reviews/Spring5Boot2JettyHibernateMySQL/src/main/java/com/iqmsoft/springboot/hibernate/Main.java
+/home/iqmsoft/cloud/spring/reviews/Spring5Boot2JettyHibernateMySQL/src/main/java/com/iqmsoft/springboot/hibernate/model/Client.java
+/home/iqmsoft/cloud/spring/reviews/Spring5Boot2JettyHibernateMySQL/src/main/java/com/iqmsoft/springboot/hibernate/service/ClientService.java
+/home/iqmsoft/cloud/spring/reviews/Spring5Boot2JettyHibernateMySQL/src/main/java/com/iqmsoft/springboot/hibernate/controller/MainController.java

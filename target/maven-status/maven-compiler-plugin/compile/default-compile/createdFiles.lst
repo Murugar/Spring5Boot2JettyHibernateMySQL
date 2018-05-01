@@ -1,0 +1,5 @@
+com/iqmsoft/springboot/hibernate/model/Client.class
+com/iqmsoft/springboot/hibernate/service/ClientService.class
+com/iqmsoft/springboot/hibernate/controller/MainController.class
+com/iqmsoft/springboot/hibernate/dao/ClientDAO.class
+com/iqmsoft/springboot/hibernate/Main.class
